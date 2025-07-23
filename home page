@@ -9,24 +9,52 @@
     <div class="div3"  >
         <table rules="cols">
             <tr>
-        <td><a href="file:///D:/jaisil%20patel%20-%2010th%20pio/sea%20history%20of%20ah,edabad.html">History of Ahmedabad</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <td><a href="file:///D:/jaisil%20patel%20-%2010th%20pio/legislature%20of%20ahemdabad.html">Legislature of Ahmedabad</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <td><a href=""> Attraction</a>
+        <td><a href="file:///F:/sea%20history%20of%20ah,edabad.html">History of Ahmedabad</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <td><a href="file:///F:/legislature%20of%20ahemdabad.html">Legislature of Ahmedabad</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <td><a href="file:///F:/atraction.html"> Attraction</a>
         </tr>
         </table>
-    </div>
+    </div>  
     
 
     <br>
 <div class="div2">
     <div class="div1" >
-        <a href="file:///D:/jaisil%20patel%20-%2010th%20pio/bapunagar.html" ><img src="https://ik.imagekit.io/dmrehbpdvz/bapunagar.png?updatedAt=1753262017992" alt="Bapunagar"class="img1"><br>Bapunagar</a>
+        <a href="file:///F:/bapunagar.html" ><img src="https://ik.imagekit.io/dmrehbpdvz/bapunagar.png?updatedAt=1753262017992" alt="Bapunagar"class="img1"><br>Bapunagar</a>
     </div>
     
 
     <div class="div1">
-        <a href="file:///D:/jaisil%20patel%20-%2010th%20pio/nikol.html" ><img src="nikol.jpeg" alt="Bapunagar" class="img1"><br>Nikol</a>
+        <a href="file:///F:/nikol.html" ><img src="nikol.jpeg" alt="Bapunagar" class="img1"><br>Nikol</a>
     </div>
 </div>
+<br>
+<h3>About Ahmedabad</h3>
+<img src="https://ik.imagekit.io/dmrehbpdvz/desktop-wallpaper-western-india-chapter-ahmedabad.jpg?updatedAt=1753290051476" alt="ahemdabad " style="border-radius: 30px; box-shadow: 5px 5px #AA7DCE;" align="right" width="350px" height="400px">
+<pre>
+<ul>
+<li>Ahmedabad is the largest city in the State of Gujarat and the
+Seventh- largest urban agglomeration in India, with a population of
+almost 74 lakhs (7.4 Million).
+</li>
+<li>Ahmedabad is a major economic and industrial center, particularly 
+known for its textile industry and being a hub for trade, commerce, and 
+industry. It was once called the 'Manchester of India' due to its 
+cotton production. 
+</li>
+<li>The historic walled city of Ahmedabad was declared a UNESCO World 
+Heritage City in 2017, highlighting its cultural and historical importance. 
+</li>
+<li>Ahmedabad boasts several prestigious educational and research institutions
+including the Indian Institute of Management (IIM), the National Institute of 
+Design (NID), and the Gujarat University. </li>
+<li>Ahmedabad is known for its vibrant culture and delicious street food, 
+including items like Dhokla and Fafda
+</li>
+<li>Ahmedabad is one of the cities chosen for development under
+India's Smart Cities Mission, aiming to integrate modern technology and improve urban living. 
+</li>
+</ul>
+</pre>
 </body>
 </html>
