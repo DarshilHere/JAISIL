@@ -1,0 +1,69 @@
+<html>
+    <head>
+        <title>Attraction</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body class="document">
+        
+       <div class="div3"  >
+        <table rules="cols">
+            <tr>
+        
+        <td><a href="file:///F:/sea%20history%20of%20ah,edabad.html">History of Ahmedabad</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <td><a href="file:///F:/legislature%20of%20ahemdabad.html">Legislature of Ahmedabad</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <td><a href="file:///F:/atraction.html"> Attraction</a>
+        <td><a href="file:///F:/sea%20project%20home%20page.html">Home page</a></td>
+        </tr>
+        </table>
+    </div>  
+        <h3>Riverfront</h3>    
+        <img src="https://ik.imagekit.io/dmrehbpdvz/download(1).jpg?updatedAt=1753283634509" alt="riverfront" align="right" height="250px" width="300px" style="border-radius: 30px; box-shadow: 5px 5px #AA7DCE;">
+        <pre>
+        <ul><li>The Sabarmati Riverfront is a waterfront development project in 
+Ahmedabad, India,transforming the banks of the Sabarmati River into a 
+recreational and public space</li>
+            <li>The riverfront has boosted tourism, revitalized nearby 
+neighborhoods, and spurred economic growth in Ahmedabad. It also hosts events
+like the Ravivari Bazaar (Sunday market) and has become a popular venue for 
+cultural events and festivals. 
+            </li>
+            <li>The riverfront features parks, gardens, promenades, event venues, ghats, 
+markets, food zones, and children's play areas, providing a range of 
+recreational opportunities. 
+            </li></ul>
+        <h3>Adalaj Stepwell</h3>
+        <img src="https://ik.imagekit.io/dmrehbpdvz/download.jpg?updatedAt=1753284973724" alt="adalaj stepwell" align="left"  style="border-radius: 30px; box-shadow: 5px 5px #AA7DCE;" >
+        <ul  style=" margin-left: 200px;"><li>The flamboyant 15th-century stepwell, has lost only little 
+ its grandeur over the last few centuries.
+        </li>
+        <li>Till date, the intricate carvings on the pillars that support 
+the five storeys are mostly intact; the beams work as pit stops 
+for pigeons flying in and out and the structure still leaves jaws dropped 
+for swarms of people.
+        </li>   
+    </ul>
+     <h3>Sabarmati Ashram</h3>
+     <img src="https://ik.imagekit.io/dmrehbpdvz/download.jpg?updatedAt=1753286683234" alt="Sabarmati Ashram" style="border-radius: 30px; box-shadow: 5px 5px #AA7DCE; " align="right" >
+    <ul><li>Sabarmati Ashram in Gujarat, located north of Ahmedabad, was originally the
+ residence of Mahatma Gandhi and his spouse Kasturba.
+    </li>
+    <li>The ashram is flanked by a calm and quiet stretch by the Sabarmati River.</li>
+    <li>The original ashram was founded in May 1915 at Jivanlal Desai's 
+Kochrab Bungalow, who was a barrister associate of Gandhi, as Satyagraha Ashram.
+</ul>
+    </li>
+    <h3>Science City</h3>
+    <img  src="https://ik.imagekit.io/dmrehbpdvz/download.jpg?updatedAt=1753286683234" alt="science city" align="left" style="border-radius: 30px; box-shadow: 5px 5px #AA7DCE; ">
+    <ul style="margin-left: 300px;">
+        <li>Gujarat Science City, located in Ahmedabad, is a sprawling 
+complex dedicated to promoting scientific education and fostering
+a culture of scientific inquiry</li>
+<li>It offers a blend of education and entertainment through 
+interactive exhibits, virtual reality experiences, and live demonstrations. 
+The facility aims to make science accessible and engaging for all ages,
+ with a particular focus on inspiring young minds. 
+</li>
+    </ul>
+    </pre>
+    </body>
+</html>
