@@ -1,0 +1,131 @@
+.div3 {
+            background-color:#7fc7e988;
+            height:auto;
+            font-size: 50px;
+            border-radius: 10px;
+            text-align: center;
+            padding-top:    0px;
+            text-shadow: 2px 2px white;
+            color: white;
+		  font-family: arial, sans-serif;
+          height: 150px;
+    }
+    .div4 {
+            background-color:#7fc7e988;
+            height:auto;
+            font-size: 70px;
+            border-radius: 10px;
+            text-align: center;
+            padding-top: 50px;
+            text-shadow: 2px 2px rgb(98, 233, 245);
+            color: white;
+		  font-family: arial, sans-serif;
+          height: 150px;
+    }
+a{
+    text-decoration: none;
+    color: black ;
+
+}
+table{
+         text-align: center;
+         width: 100%;
+        font-size: 40px;
+       border-spacing: 0 20px;
+}
+
+
+h1{
+            font-size: 50px;
+            margin-bottom: 3px;
+            color: white;
+            text-shadow: 2px 2px ;
+            margin-bottom: 20px;
+            font-family: arial, sans-serif;
+        }
+.div2 {
+            display: flex;
+            gap: 20px;
+            padding: 20px;
+        }
+        .div1 {
+            background-color:#80f5e58f;
+            width: 400px;
+            height: 350px;
+            border-radius: 15px;
+            padding: 10px;
+            text-align: center;
+            font-size: 50px;
+	         margin: auto;
+           font-family: arial, sans-serif;
+           text-shadow: 2px 2px black;
+           display: inline-block;
+           transition: background-color 0.3s ease;
+            position: relative;
+         overflow: hidden;
+        }
+        .div1:hover {
+             background-color: rgba(40, 37, 41, 0.573);
+             border-radius: 25px;
+             transform: scale(1.05);
+             z-index: 2;
+        }
+        .img1 {
+            border-radius: 25px;
+            width: 100%; 
+        }
+        .cardio-container {
+    max-width: 1500px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #e3f6fc;
+    border-radius: 20px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2);
+}
+.cardio-title {
+    text-align: center;
+    font-size: 60px;
+    color: #0a3d62;
+    margin-bottom: 40px;
+    font-family: 'Arial', sans-serif;
+    text-shadow: 2px 2px #7fc7e9;
+}
+.cardio-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+.cardio-card {
+    background: #7fc7e988;
+    border-radius: 15px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+    padding: 25px 20px;
+    width: 350px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    font-size: 22px;
+    color: #222;
+}
+.cardio-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 32px rgba(0,0,0,0.18);
+    background: #80f5e58f;
+}
+.cardio-card h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+    color: #0a3d62;
+}
+.cardio-card a {
+    color: #0a3d62;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+.cardio-card a:hover {
+    color: #222;
+    text-decoration: underline;
+}
+.cardio-card p {
+    margin: 0;
+    color: #222;
+}
